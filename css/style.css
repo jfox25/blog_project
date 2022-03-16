@@ -1,0 +1,12 @@
+.blog-entry {
+  width: 50%;
+  border: 2px solid red;
+  padding: 70px;
+  padding-right: 100px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 25px;
+}
+body {
+  text-align: center;
+}
